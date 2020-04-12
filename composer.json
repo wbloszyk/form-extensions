@@ -34,7 +34,7 @@
         "twig/twig": "^2.0 || ^3.0"
     },
     "conflict": {
-        "sonata-project/core-bundle": ">=3.13"
+        "sonata-project/core-bundle": ">=3.13 || <3.999"
     },
     "require-dev": {
         "doctrine/persistence": "^1.1",
